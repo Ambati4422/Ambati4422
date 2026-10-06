@@ -78,7 +78,41 @@ I build interactive dashboards and analyses using **SQL, Power BI, Excel, Python
 <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 🔄 My Workflow
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1000" height="200" rx="20" fill="#0D1117"/>
+<text x="500" y="38" text-anchor="middle" font-size="20" font-weight="800" fill="#fff">My Analytics Workflow</text>
+<line x1="21" y1="108" x2="979" y2="108" stroke="#3A4A7A" stroke-width="4" stroke-dasharray="8 8"><animate attributeName="stroke-dashoffset" from="0" to="-32" dur="1s" repeatCount="indefinite"/></line>
+<rect x="17" y="76" width="126" height="64" rx="16" fill="none" stroke="#FF6B6B" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="80" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#FF6B6B">01</text>
+<rect x="21" y="80" width="118" height="56" rx="14" fill="#FF6B6B"/>
+<text x="80" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">Collect</text>
+<rect x="157" y="76" width="126" height="64" rx="16" fill="none" stroke="#FFA600" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="0.8s" repeatCount="indefinite"/></rect>
+<text x="220" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#FFA600">02</text>
+<rect x="161" y="80" width="118" height="56" rx="14" fill="#FFA600"/>
+<text x="220" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">Clean</text>
+<rect x="297" y="76" width="126" height="64" rx="16" fill="none" stroke="#FFD60A" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="1.6s" repeatCount="indefinite"/></rect>
+<text x="360" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#FFD60A">03</text>
+<rect x="301" y="80" width="118" height="56" rx="14" fill="#FFD60A"/>
+<text x="360" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">Transform</text>
+<rect x="437" y="76" width="126" height="64" rx="16" fill="none" stroke="#2ED573" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="2.4s" repeatCount="indefinite"/></rect>
+<text x="500" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#2ED573">04</text>
+<rect x="441" y="80" width="118" height="56" rx="14" fill="#2ED573"/>
+<text x="500" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">SQL</text>
+<rect x="577" y="76" width="126" height="64" rx="16" fill="none" stroke="#00D2FF" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="3.2s" repeatCount="indefinite"/></rect>
+<text x="640" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#00D2FF">05</text>
+<rect x="581" y="80" width="118" height="56" rx="14" fill="#00D2FF"/>
+<text x="640" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">Model</text>
+<rect x="717" y="76" width="126" height="64" rx="16" fill="none" stroke="#6C7BFF" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="4.0s" repeatCount="indefinite"/></rect>
+<text x="780" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#6C7BFF">06</text>
+<rect x="721" y="80" width="118" height="56" rx="14" fill="#6C7BFF"/>
+<text x="780" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">Visualize</text>
+<rect x="857" y="76" width="126" height="64" rx="16" fill="none" stroke="#E056FD" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.1;.3;1" dur="5.6s" begin="4.8s" repeatCount="indefinite"/></rect>
+<text x="920" y="68" text-anchor="middle" font-size="13" font-weight="700" fill="#E056FD">07</text>
+<rect x="861" y="80" width="118" height="56" rx="14" fill="#E056FD"/>
+<text x="920" y="114" text-anchor="middle" font-size="16" font-weight="800" fill="#0D1117">Insights</text>
+<circle r="7" cy="108" fill="#fff"><animate attributeName="cx" values="21;979" dur="6s" repeatCount="indefinite"/></circle>
+<text x="500" y="176" text-anchor="middle" font-size="15" fill="#9CA3AF" letter-spacing="2">DATA  →  INSIGHTS  →  DECISIONS</text>
+</svg>
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=900&lines=1.+Collect+data;2.+Clean+%26+transform+(Power+Query+%2F+Python);3.+Analyze+with+SQL;4.+Model+(star+schema)+%2B+DAX+KPIs;5.+Visualize+in+Power+BI+%2F+Tableau;6.+Deliver+insights+for+decisions" alt="workflow"/>
 </div>
