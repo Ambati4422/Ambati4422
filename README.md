@@ -1,6 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" font-family="Segoe UI, Arial, sans-serif">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#1F3BFF"><animate attributeName="stop-color" values="#1F3BFF;#00B4FF;#1F3BFF" dur="8s" repeatCount="indefinite"/></stop>
+<stop offset=".5" stop-color="#8A2BFF"/>
+<stop offset="1" stop-color="#FF2D95"><animate attributeName="stop-color" values="#FF2D95;#8A2BFF;#FF2D95" dur="8s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<clipPath id="c"><rect width="1000" height="300" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1000" height="300" fill="url(#g)"/>
+<rect x="24" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="30;50;30" dur="2.5s" repeatCount="indefinite"/><animate attributeName="y" values="270;250;270" dur="2.5s" repeatCount="indefinite"/></rect>
+<rect x="104" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="67;33;67" dur="3.0s" repeatCount="indefinite"/><animate attributeName="y" values="233;267;233" dur="3.0s" repeatCount="indefinite"/></rect>
+<rect x="184" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="54;86;54" dur="3.5s" repeatCount="indefinite"/><animate attributeName="y" values="246;214;246" dur="3.5s" repeatCount="indefinite"/></rect>
+<rect x="264" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="41;69;41" dur="4.0s" repeatCount="indefinite"/><animate attributeName="y" values="259;231;259" dur="4.0s" repeatCount="indefinite"/></rect>
+<rect x="344" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="78;52;78" dur="2.5s" repeatCount="indefinite"/><animate attributeName="y" values="222;248;222" dur="2.5s" repeatCount="indefinite"/></rect>
+<rect x="424" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="65;35;65" dur="3.0s" repeatCount="indefinite"/><animate attributeName="y" values="235;265;235" dur="3.0s" repeatCount="indefinite"/></rect>
+<rect x="504" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="52;88;52" dur="3.5s" repeatCount="indefinite"/><animate attributeName="y" values="248;212;248" dur="3.5s" repeatCount="indefinite"/></rect>
+<rect x="584" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="39;71;39" dur="4.0s" repeatCount="indefinite"/><animate attributeName="y" values="261;229;261" dur="4.0s" repeatCount="indefinite"/></rect>
+<rect x="664" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="76;54;76" dur="2.5s" repeatCount="indefinite"/><animate attributeName="y" values="224;246;224" dur="2.5s" repeatCount="indefinite"/></rect>
+<rect x="744" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="63;37;63" dur="3.0s" repeatCount="indefinite"/><animate attributeName="y" values="237;263;237" dur="3.0s" repeatCount="indefinite"/></rect>
+<rect x="824" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="50;90;50" dur="3.5s" repeatCount="indefinite"/><animate attributeName="y" values="250;210;250" dur="3.5s" repeatCount="indefinite"/></rect>
+<rect x="904" width="50" rx="6" fill="#fff" opacity=".15"><animate attributeName="height" values="37;73;37" dur="4.0s" repeatCount="indefinite"/><animate attributeName="y" values="263;227;263" dur="4.0s" repeatCount="indefinite"/></rect>
+<text x="500" y="118" text-anchor="middle" font-size="68" font-weight="800" fill="#fff">Jagan Reddy</text>
+<text x="500" y="176" text-anchor="middle" font-size="27" font-weight="600" fill="#FFE45E" opacity="1">Turning raw data into business insights<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.30;.34;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="500" y="176" text-anchor="middle" font-size="27" font-weight="600" fill="#FFE45E" opacity="0">Building interactive Power BI dashboards<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.33;.37;.63;.67;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="500" y="176" text-anchor="middle" font-size="27" font-weight="600" fill="#FFE45E" opacity="0">Data Validation | Reporting | Decision Support<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.66;.70;.97;1" dur="9s" repeatCount="indefinite"/></text>
+<text x="500" y="222" text-anchor="middle" font-size="19" fill="#fff">SQL  •  Power BI  •  Excel  •  Python  •  Tableau  •  BigQuery</text>
+</g>
+</svg>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/banner.svg" alt="Jagan Reddy - Data Analyst" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=1F3BFF&text=Jagan%20Reddy&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=60&descSize=22" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=FF2D95&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+business+insights;Building+interactive+Power+BI+dashboards;SQL+%7C+Python+%7C+Excel+%7C+Tableau" alt="typing"/>
 
 <br/>
 
@@ -15,7 +47,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 🚀 About Me
 
@@ -26,7 +58,7 @@ I build interactive dashboards and analyses using **SQL, Power BI, Excel, Python
 - 🌱 Currently learning **Advanced DAX, Advanced SQL and Python for analytics**
 - 💡 I like solving real business problems with data
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -43,15 +75,15 @@ I build interactive dashboards and analyses using **SQL, Power BI, Excel, Python
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 🔄 My Workflow
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/workflow.svg" alt="Analytics workflow" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=900&lines=1.+Collect+data;2.+Clean+%26+transform+(Power+Query+%2F+Python);3.+Analyze+with+SQL;4.+Model+(star+schema)+%2B+DAX+KPIs;5.+Visualize+in+Power+BI+%2F+Tableau;6.+Deliver+insights+for+decisions" alt="workflow"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 📂 Featured Projects
 
@@ -98,7 +130,7 @@ Cleaned and analyzed hotel data with Python and SQL, then built dashboards to su
 
 **More:** [Salesman Performance Dashboard](https://github.com/Ambati4422/Salesman-performance-dashboard-excel-) · [DAX Visualization in Power BI](https://github.com/Ambati4422/Dax-visualization-in-power-bi) · [Healthcare Data Analysis](https://github.com/Ambati4422/Health-care-data-analyis)
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -117,7 +149,7 @@ Cleaned and analyzed hotel data with Python and SQL, then built dashboards to su
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/divider.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=gradient&customColorList=6,12,20" width="100%"/>
 
 ## 🐍 Contribution Snake
 
