@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20&text=Jagan%20Reddy&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=62&descSize=22" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Jagan%20Reddy&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=60&descSize=22" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF2D95&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+business+insights;Building+interactive+Power+BI+dashboards;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Data+to+decisions%2C+one+KPI+at+a+time" alt="typing"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ambati4422&label=PROFILE+VIEWS&color=FF2D95&style=for-the-badge" alt="views"/>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAmbati4422&label=PROFILE%20VIEWS&countColor=%23FF2D95&style=for-the-badge" alt="views"/>
 
 <br/><br/>
 
