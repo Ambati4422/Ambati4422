@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I'm Jagan Reddy 👋
 
-<!--
-**Ambati4422/Ambati4422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Data Analyst focused on turning raw data into meaningful
+business insights through data analysis, visualization, and interactive dashboards.
+- 📊 Working with Power BI, SQL, Excel, Python and Tableau
+- 🧹 Interested in Data Cleaning, Data Analysis and Data Visualization
+- 📈 Building interactive dashboards and business reports
+- 🐍 Practicing Python with Pandas, NumPy, Matplotlib and Seaborn
+- 💼 Currently working as a Junior Data Analyst
+- 🌱 Continuously improving my Data Analytics and Business Intelligence skills
 
-Here are some ideas to get you started:
+**Data Analytics**
+## 🛠️ Technical Skills
+- 📊 Power BI – DAX, Power Query, Data Modeling, Dashboards
+- 🗄️ SQL – Queries, Joins, Subqueries, Aggregations
+- 📈 Excel – Pivot Tables, XLOOKUP/VLOOKUP, Data Cleaning
+- 🐍 Python – Pandas, NumPy, Matplotlib, Seaborn
+- 📉 Tableau – Data Visualization and Dashboards
+- 🧹 Data Cleaning & Transformation
+- 📊 Business Intelligence & Reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+
+### 🏠 Airbnb Insights – Power BI
+Interactive dashboard analyzing Airbnb listings, pricing, availability and
+property trends.
+
+### 👥 HR Analytics Dashboard – Power BI
+Interactive HR dashboard for analyzing employee data, workforce trends
+and key HR metrics.
+
+### 📢 Marketing Campaign Analysis – Python
+Performed data cleaning, exploratory data analysis and visualization to
+identify marketing campaign insights.
+
+### 🌐 Data Analyst Portfolio
+My personal portfolio showcasing my projects, technical skills and
+data analytics work.
+
+## 📊 What I Can Do
+
+- Clean and transform raw datasets
+- Write SQL queries
+- Build Power BI dashboards
+- Create Excel reports
+- Perform exploratory data analysis
+- Create Tableau dashboards
+- Identify trends and business insights
+- Prepare analytical reports
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/ambati-jagan2002
+- 🌐 Portfolio: https://thriving-dragon-b028c4.netlify.app
+- 📧 Email: ambatijaganreddyj@gmail.com
+
+---
+
+⭐ Feel free to explore my repositories and projects!
