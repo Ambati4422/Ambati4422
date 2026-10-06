@@ -1,47 +1,141 @@
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/hero-3d.svg" alt="Jagan Reddy" width="100%"/>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" font-family="Segoe UI, Arial, sans-serif">
-<defs>
-<radialGradient id="bg" cx=".72" cy=".6" r="1"><stop offset="0" stop-color="#2B1766"/><stop offset=".6" stop-color="#0E1233"/><stop offset="1" stop-color="#070A1C"/></radialGradient>
-<linearGradient id="nm" gradientUnits="userSpaceOnUse" x1="50" y1="0" x2="350" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#7C4DFF"/><stop offset="1" stop-color="#FF2D95"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="8s" repeatCount="indefinite"/></linearGradient>
-<radialGradient id="gl"><stop offset="0" stop-color="#00E5FF" stop-opacity=".5"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
-<clipPath id="c"><rect width="1000" height="440" rx="24"/></clipPath>
-<g id="b1"><g transform="translate(-26,0) skewY(26.565)"><rect width="26" y="-50" height="50" style="fill:var(--l)"><animate attributeName="y" values="-50;-140;-50" dur="3.2s" repeatCount="indefinite"/><animate attributeName="height" values="50;140;50" dur="3.2s" repeatCount="indefinite"/></rect></g><g transform="translate(0,13) skewY(-26.565)"><rect width="26" y="-50" height="50" style="fill:var(--r)"><animate attributeName="y" values="-50;-140;-50" dur="3.2s" repeatCount="indefinite"/><animate attributeName="height" values="50;140;50" dur="3.2s" repeatCount="indefinite"/></rect></g><polygon points="-26,0 0,13 26,0 0,-13" style="fill:var(--t)" transform="translate(0 -50)"><animateTransform attributeName="transform" type="translate" values="0 -50;0 -140;0 -50" dur="3.2s" repeatCount="indefinite"/></polygon></g>
-<g id="b2"><g transform="translate(-26,0) skewY(26.565)"><rect width="26" y="-120" height="120" style="fill:var(--l)"><animate attributeName="y" values="-120;-60;-120" dur="4s" repeatCount="indefinite"/><animate attributeName="height" values="120;60;120" dur="4s" repeatCount="indefinite"/></rect></g><g transform="translate(0,13) skewY(-26.565)"><rect width="26" y="-120" height="120" style="fill:var(--r)"><animate attributeName="y" values="-120;-60;-120" dur="4s" repeatCount="indefinite"/><animate attributeName="height" values="120;60;120" dur="4s" repeatCount="indefinite"/></rect></g><polygon points="-26,0 0,13 26,0 0,-13" style="fill:var(--t)" transform="translate(0 -120)"><animateTransform attributeName="transform" type="translate" values="0 -120;0 -60;0 -120" dur="4s" repeatCount="indefinite"/></polygon></g>
-<g id="b3"><g transform="translate(-26,0) skewY(26.565)"><rect width="26" y="-80" height="80" style="fill:var(--l)"><animate attributeName="y" values="-80;-150;-80" dur="3.6s" repeatCount="indefinite"/><animate attributeName="height" values="80;150;80" dur="3.6s" repeatCount="indefinite"/></rect></g><g transform="translate(0,13) skewY(-26.565)"><rect width="26" y="-80" height="80" style="fill:var(--r)"><animate attributeName="y" values="-80;-150;-80" dur="3.6s" repeatCount="indefinite"/><animate attributeName="height" values="80;150;80" dur="3.6s" repeatCount="indefinite"/></rect></g><polygon points="-26,0 0,13 26,0 0,-13" style="fill:var(--t)" transform="translate(0 -80)"><animateTransform attributeName="transform" type="translate" values="0 -80;0 -150;0 -80" dur="3.6s" repeatCount="indefinite"/></polygon></g>
-</defs>
-<g clip-path="url(#c)">
-<rect width="1000" height="440" fill="url(#bg)"/>
-<circle cx="371" cy="400" r="2" fill="#fff" opacity="0"><animate attributeName="cy" values="430;40" dur="8s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="10s" begin="0s" repeatCount="indefinite"/></circle>
-<circle cx="706" cy="400" r="2" fill="#fff" opacity="0"><animate attributeName="cy" values="430;40" dur="7s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="7s" begin="1s" repeatCount="indefinite"/></circle>
-<circle cx="880" cy="400" r="2" fill="#fff" opacity="0"><animate attributeName="cy" values="430;40" dur="11s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="7s" begin="2s" repeatCount="indefinite"/></circle>
-<circle cx="414" cy="400" r="2" fill="#fff" opacity="0"><animate attributeName="cy" values="430;40" dur="11s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="7s" begin="3s" repeatCount="indefinite"/></circle>
-<circle cx="559" cy="400" r="2" fill="#fff" opacity="0"><animate attributeName="cy" values="430;40" dur="8s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="7s" begin="4s" repeatCount="indefinite"/></circle>
-<circle cx="128" cy="400" r="2" fill="#fff" opacity="0"><animate attributeName="cy" values="430;40" dur="10s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="10s" begin="5s" repeatCount="indefinite"/></circle>
-<ellipse cx="730" cy="370" rx="300" ry="120" fill="url(#gl)"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></ellipse>
-<polygon points="730,198 953,310 730,422 507,310" fill="#141A4A" stroke="#00E5FF" stroke-width="2"/>
-<polygon points="507,310 730,422 730,440 507,328" fill="#0A0E30"/>
-<polygon points="953,310 730,422 730,440 953,328" fill="#0D1240"/>
-<use href="#b1" x="730" y="248" style="--t:#4DF3FF;--r:#00B8D4;--l:#007C94"/>
-<use href="#b2" x="668" y="279" style="--t:#A58BFF;--r:#6C47E6;--l:#4527A8"/>
-<use href="#b3" x="792" y="279" style="--t:#FF6FB5;--r:#D81B7A;--l:#951256"/>
-<use href="#b1" x="606" y="310" style="--t:#FFE55C;--r:#D9B300;--l:#9A7F00"/>
-<use href="#b2" x="730" y="310" style="--t:#5CF2A0;--r:#1FB866;--l:#14804A"/>
-<use href="#b3" x="854" y="310" style="--t:#FFB04D;--r:#E67E00;--l:#A55A00"/>
-<use href="#b1" x="668" y="341" style="--t:#4DF3FF;--r:#00B8D4;--l:#007C94"/>
-<use href="#b2" x="792" y="341" style="--t:#E98BFF;--r:#B545D1;--l:#7E2D95"/>
-<use href="#b3" x="730" y="372" style="--t:#FF8F8F;--r:#E04F4F;--l:#A33636"/>
-<ellipse cx="730" cy="290" rx="240" ry="80" fill="none" stroke="#FF2D95" stroke-width="2" stroke-dasharray="6 10" opacity=".7"><animate attributeName="stroke-dashoffset" from="0" to="-64" dur="2s" repeatCount="indefinite"/></ellipse>
-<circle r="8" fill="#FFD60A"><animateMotion dur="7s" repeatCount="indefinite" path="M490,290 a240,80 0 1,1 480,0 a240,80 0 1,1 -480,0"/></circle>
-<text x="50" y="140" font-size="76" font-weight="900" fill="url(#nm)">JAGAN</text>
-<text x="50" y="215" font-size="76" font-weight="900" fill="url(#nm)">REDDY</text>
-<text x="52" y="248" font-size="17" font-weight="700" fill="#9AA4D6" letter-spacing="5">DATA ANALYST  •  BI</text>
-<text x="50" y="290" font-size="25" font-weight="600" fill="#FFE45E" opacity="1">Turning raw data into insights<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.3;.34;1" dur="9s" repeatCount="indefinite"/></text>
-<text x="50" y="290" font-size="25" font-weight="600" fill="#FFE45E" opacity="0">Building Power BI dashboards<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.33;.37;.63;.67;1" dur="9s" repeatCount="indefinite"/></text>
-<text x="50" y="290" font-size="25" font-weight="600" fill="#FFE45E" opacity="0">Data to decisions, one KPI at a time<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.66;.7;.97;1" dur="9s" repeatCount="indefinite"/></text>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="2.4s" repeatCount="indefinite"/><rect x="50" y="335" width="64" height="34" rx="17" fill="#2ED573"/><text x="82" y="357" text-anchor="middle" font-size="15" font-weight="800" fill="#0B1026">SQL</text></g>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="2.7s" repeatCount="indefinite"/><rect x="124" y="335" width="100" height="34" rx="17" fill="#FFD60A"/><text x="174" y="357" text-anchor="middle" font-size="15" font-weight="800" fill="#0B1026">Power BI</text></g>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3s" repeatCount="indefinite"/><rect x="234" y="335" width="88" height="34" rx="17" fill="#4DF3FF"/><text x="278" y="357" text-anchor="middle" font-size="15" font-weight="800" fill="#0B1026">Python</text></g>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.3s" repeatCount="indefinite"/><rect x="332" y="335" width="76" height="34" rx="17" fill="#FF8A00"/><text x="370" y="357" text-anchor="middle" font-size="15" font-weight="800" fill="#0B1026">Excel</text></g>
-<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="3.6s" repeatCount="indefinite"/><rect x="418" y="335" width="96" height="34" rx="17" fill="#FF6FB5"/><text x="466" y="357" text-anchor="middle" font-size="15" font-weight="800" fill="#0B1026">Tableau</text></g>
-</g>
-</svg>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=6,11,20&text=Jagan%20Reddy&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=62&descSize=22" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF2D95&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+business+insights;Building+interactive+Power+BI+dashboards;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Data+to+decisions%2C+one+KPI+at+a+time" alt="typing"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ambati4422&label=PROFILE+VIEWS&color=FF2D95&style=for-the-badge" alt="views"/>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ambati-jagan2002/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://thriving-dragon-b028c4.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="mailto:ambatijaganreddyj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-00C853?style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,20" width="100%"/>
+
+## 🚀 About Me
+
+I build interactive dashboards and analyses using **SQL, Power BI, Excel, Python and Tableau**. I clean messy data, model it properly, and turn it into KPIs that help teams make decisions.
+
+- 🔭 Working in **Data Analytics & Business Intelligence**
+- 📈 Strong in **Power Query, data modeling (star schema), DAX and KPI dashboards**
+- 🌱 Currently learning **Advanced DAX, Advanced SQL and Python for analytics**
+- 💡 I like solving real business problems with data
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,20" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=powerbi,mysql,py,pandas,numpy,git,github,vscode&perline=8" alt="skills"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-FF6B00?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,20" width="100%"/>
+
+## 🔄 My Workflow
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=600&color=00C2FF&center=true&vCenter=true&width=900&lines=1.+Collect+data;2.+Clean+%26+transform+(Power+Query+%2F+Python);3.+Analyze+with+SQL;4.+Model+(star+schema)+%2B+DAX+KPIs;5.+Visualize+in+Power+BI+%2F+Tableau;6.+Deliver+insights+for+decisions" alt="workflow"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,20" width="100%"/>
+
+## 📂 Featured Projects
+
+<!-- Replace each REPO-NAME with the real repository name -->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🇮🇳 [Digital India Performance Dashboard](https://github.com/Ambati4422/REPO-NAME)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-FF2D95?style=flat-square)
+
+Cleaned digital performance data and built an interactive KPI dashboard on internet usage and digital adoption.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 [HRMS Market Analysis](https://github.com/Ambati4422/REPO-NAME)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Compared HRMS/HCM vendors by category, pricing and product offerings in a competitive analysis dashboard.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 [Mobile Accessories Demand Analysis](https://github.com/Ambati4422/REPO-NAME)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Identified top-selling products, compared shop-level sales and profitability, and flagged strong and weak markets.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏨 [Hotel Management Analytics](https://github.com/Ambati4422/REPO-NAME)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+Cleaned and analyzed hotel data with Python and SQL, then built dashboards to surface business insights.
+
+</td>
+</tr>
+</table>
+
+**More:** [Salesman Performance Dashboard](https://github.com/Ambati4422/Salesman-performance-dashboard-excel-) · [DAX Visualization in Power BI](https://github.com/Ambati4422/Dax-visualization-in-power-bi) · [Healthcare Data Analysis](https://github.com/Ambati4422/Health-care-data-analyis)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,20" width="100%"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2D95&text_color=FFFFFF&ring_color=FFD60A&border_radius=14&include_all_commits=true&count_private=true" alt="stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&border_radius=14" alt="top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Ambati4422&background=0D1117&ring=FF2D95&fire=FFD60A&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideLabels=00E5FF&sideNums=FFFFFF&dates=9CA3AF&border=243056&stroke=243056&border_radius=14" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ambati4422&bg_color=0D1117&color=00E5FF&line=FF2D95&point=FFD60A&area=true&area_color=8A2BFF&title_color=FFFFFF&hide_border=true&radius=14" alt="activity graph" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,20" width="100%"/>
+
+<!-- Snake: remove these comment marks AFTER the snake workflow has run once
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
+-->
+
+<br/>
+
+<div align="center">
+
+**"Turning Data Into Insights, One Dashboard at a Time."** 📊
+
+</div>
