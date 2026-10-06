@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/hero-3d.svg" alt="Jagan Reddy - Data Analyst" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/hero-3d.svg"…/Ambati4422/main/hero-3d.svg alt="Jagan Reddy - Data Analyst" width="100%"/>
 
 <br/>
 
