@@ -1,5 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,11,20&section=header&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=3500&pause=2000&color=FF2D95&center=true&vCenter=true&width=900&height=90&lines=JAGAN+REDDY" alt="Jagan Reddy"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=900&color=00A8E8&center=true&vCenter=true&width=900&height=50&lines=Data+Analyst+%7C+Business+Intelligence;Turning+raw+data+into+business+insights;Building+interactive+Power+BI+dashboards;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Data+to+decisions%2C+one+KPI+at+a+time" alt="roles"/>
+
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20&text=Jagan%20Reddy&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=60&descSize=22" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=700&color=FF2D95&center=true&vCenter=true&width=800&lines=Turning+raw+data+into+business+insights;Building+interactive+Power+BI+dashboards;SQL+%7C+Python+%7C+Excel+%7C+Tableau;Data+to+decisions%2C+one+KPI+at+a+time" alt="typing"/>
