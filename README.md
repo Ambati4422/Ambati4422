@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-3d.svg" alt="Jagan Ambati - Data Analyst and BI Developer" width="100%"/>
+<img src="C:/Users/HP/Downloads/hero-3d%20(1).svg" alt="Jagan Ambati - Data Analyst and BI Developer" width="100%"/>
 
 <a href="https://github.com/Ambati4422">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Junior+Software+Engineer+%7C+Data+%26+BI;Power+BI+%C2%B7+SQL+%C2%B7+BigQuery+%C2%B7+Python;Building+dashboards+that+drive+decisions;Turning+Data+into+Insights" alt="Typing animation"/>
