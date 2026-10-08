@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/profile-3d-contrib/profile-green-animate.svg" alt="Ambati4422 3D Contribution Graph" />
+</p>
 name: GitHub-Profile-3D-Contrib
 
 on:
