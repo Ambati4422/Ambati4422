@@ -1,430 +1,271 @@
+<!-- ========================================================= -->
+<!--              AMBATI JAGAN — 3D PROFILE                   -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════╗ -->
-<!--                    3D HERO VISUAL                         -->
-<!-- ╚══════════════════════════════════════════════════════════╝ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AMBATI%20JAGAN&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=3D%20DATA%20ANALYTICS%20UNIVERSE&descSize=20&descAlignY=62&color=0:050816,50:101B4D,100:00C6FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:111827,100:06B6D4&height=260&section=header&text=AMBATI%20JAGAN&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%20%7C%20%20BUSINESS%20INTELLIGENCE&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-<a href="https://github.com/Ambati4422">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=JUNIOR+DATA+ANALYST;ADVANCED+SQL+ANALYST;POWER+BI+DEVELOPER;PYTHON+DATA+ANALYST;BUSINESS+INTELLIGENCE+ANALYST;TURNING+DATA+INTO+INSIGHTS" />
-
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=850&lines=DATA+ANALYST;POWER+BI+DEVELOPER;SQL+ANALYST;PYTHON+DATA+ANALYST;BUSINESS+INTELLIGENCE;DATA+%E2%86%92+INSIGHTS+%E2%86%92+IMPACT"/>
 
 <br><br>
 
-<!-- FUTURISTIC BADGES -->
-
-<img src="https://img.shields.io/badge/SQL-00E5FF?style=for-the-badge&logo=postgresql&logoColor=000000"/>
-<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=FFFFFF"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,powerbi,git,github&theme=dark" height="60"/>
 
 </div>
 
 ---
 
-<!-- ========================================================= -->
-<!--                     3D DATA CORE                          -->
-<!-- ========================================================= -->
+<div align="center">
+
+## ◈ THE DATA LAB ◈
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&ring_color=38BDF8" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" width="40%"/>
+
+</div>
+
+---
 
 <div align="center">
 
-# 🌐 3D DATA CORE
-
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/data-core.svg" width="600"/>
+# ◈ MY 3D TECH STACK ◈
 
 <br>
 
-### `DATA → ANALYSIS → VISUALIZATION → INSIGHTS → IMPACT`
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/POWER%20BI-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15"/>
+<img src="https://img.shields.io/badge/PYTHON-020617?style=for-the-badge&logo=python&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/EXCEL-020617?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E"/>
+<img src="https://img.shields.io/badge/TABLEAU-020617?style=for-the-badge&logo=tableau&logoColor=F97316"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PANDAS-020617?style=for-the-badge&logo=pandas&logoColor=F8FAFC"/>
+<img src="https://img.shields.io/badge/NUMPY-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/DAX-020617?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/POWER%20QUERY-020617?style=for-the-badge&logoColor=FFFFFF"/>
 
 </div>
 
 ---
 
-# 🧬 MY DATA UNIVERSE
+# ╔══════════════════════════════════════════════════════════╗
+# ║                  DATA ENGINEERING FLOW                   ║
+# ╚══════════════════════════════════════════════════════════╝
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/data-universe.svg" width="850"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284126-1b7d2b5f-1b5f-4a91-8f6f-7e0d2b5f8c3f.gif" width="500"/>
+
+<br>
+
+### `COLLECT`  →  `CLEAN`  →  `ANALYZE`  →  `VISUALIZE`  →  `DECIDE`
 
 </div>
 
 ---
 
-# 🛰️ TECHNOLOGY ORBIT
+# 🧊 PROJECT DIMENSION
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/tech-orbit.svg" width="700"/>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ambati4422&repo=HRMS-Market-Analysis&theme=transparent&hide_border=true"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ambati4422&repo=Digital-India-Performance&theme=transparent&hide_border=true"/>
+</a>
 
 </div>
 
-### Core Technologies
-
-| Category | Technologies |
-|---|---|
-| 🗄️ Database | SQL, SQL Server, MySQL |
-| 📊 BI | Power BI, Tableau |
-| 🐍 Python | Pandas, NumPy, Matplotlib, Seaborn |
-| 📗 Spreadsheet | Excel |
-| 🧮 BI Engineering | DAX, Power Query, Data Modeling |
-| 🔧 Tools | Git, GitHub, Web Scraping |
-
----
-
-# ⚡ 3D ANALYTICS PIPELINE
+<br>
 
 <div align="center">
 
-```text
-                     ╔════════════════╗
-                     ║   DATA SOURCES ║
-                     ╚═══════╤════════╝
-                             │
-                         ◉   │   ◉
-                          ╲  │  ╱
-                           ╲ │ ╱
-                            ▼
-                    ╔═══════════════╗
-                    ║ DATA CLEANING  ║
-                    ╚═══════╤═══════╝
-                            │
-                 ┌──────────┴──────────┐
-                 ▼                     ▼
-          ╔════════════╗         ╔════════════╗
-          ║    SQL     ║         ║   PYTHON   ║
-          ╚══════╤═════╝         ╚══════╤═════╝
-                 │                      │
-                 └──────────┬───────────┘
-                            ▼
-                   ╔══════════════════╗
-                   ║   POWER BI /     ║
-                   ║     TABLEAU      ║
-                   ╚════════╤═════════╝
-                            │
-                            ▼
-                   ╔══════════════════╗
-                   ║ BUSINESS INSIGHT ║
-                   ╚════════╤═════════╝
-                            │
-                            ▼
-                   ╔══════════════════╗
-                   ║    DECISIONS     ║
-                   ╚══════════════════╝
-```
+### 🔷 HRMS MARKET INTELLIGENCE
+
+**Power BI • SQL • Excel • Python**
+
+Market analysis • Vendor comparison • Pricing intelligence • Competitive insights
+
+<br>
+
+### 🔷 DIGITAL INDIA PERFORMANCE
+
+**Power BI • DAX • Power Query**
+
+Digital adoption • Internet usage • UPI • Digital literacy • KPI tracking
+
+<br>
+
+### 🔷 MOBILE ACCESSORIES DEMAND
+
+**SQL • Excel • Power BI**
+
+Demand analysis • Shop performance • Product profitability • Market opportunities
 
 </div>
 
 ---
 
-# 🚀 3D PROJECT GALAXY
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/project-galaxy.svg" width="850"/>
+# ◉ POWER BI COMMAND CENTER
 
-</div>
-
-## 🔷 01 — HRMS Market Analysis
-
-**Business Intelligence • Competitive Analysis • Power BI**
-
-`SQL` `Power BI` `Excel` `Python` `Web Research`
-
-- HRMS vendor classification
-- Market segmentation
-- Pricing comparison
-- Competitive analysis
-- Vendor comparison
-- Dashboard development
-- Business insights
-
----
-
-## 🔷 02 — Digital India Performance
-
-**Digital Adoption & Performance Analytics**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-- Internet usage
-- Digital literacy
-- UPI users
-- DigiLocker usage
-- State-level analysis
-- KPI target tracking
-- Geographic analysis
-
----
-
-## 🔷 03 — Mobile Accessories Demand
-
-**Bengaluru Market Demand Analysis**
-
-`SQL` `Excel` `Power BI`
-
-- Top locations
-- Top shops
-- Product demand
-- Sales performance
-- Profitability
-- Low-profit products
-- Business recommendations
-
----
-
-## 🔷 04 — Hotel Management Analytics
-
-**Hotel Business Intelligence**
-
-`Python` `Pandas` `SQL` `Power BI`
-
-- Revenue analysis
-- Booking analysis
-- Customer analysis
-- Occupancy analysis
-- Cancellation analysis
-- Business performance
-
----
-
-# 🧊 POWER BI 3D DASHBOARD
-
-<div align="center">
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    POWER BI COMMAND CENTER                 ║
-╠══════════════╦══════════════╦══════════════╦═══════════════╣
-║    SALES     ║    PROFIT    ║   ORDERS     ║    GROWTH     ║
-║              ║              ║              ║               ║
-║  ████████    ║  ██████      ║  ███████     ║     ↗ 24%    ║
-║              ║              ║              ║               ║
-╠══════════════╩══════════════╩══════════════╩═══════════════╣
-║                                                            ║
-║                  SALES PERFORMANCE                         ║
-║                                                            ║
-║             ╱╲                                             ║
-║        ╱╲  ╱  ╲       ╱╲                                   ║
-║   ╀───╯  ╲╯    ╲─────╯  ╲────────                          ║
-║                                                            ║
-╠══════════════════════╦═════════════════════════════════════╣
-║     CATEGORY         ║              REGION                 ║
-║                      ║                                     ║
-║     ███████          ║        █████████                    ║
-║     █████            ║        ███████                      ║
-║     ████             ║        █████                        ║
-╚══════════════════════╩═════════════════════════════════════╝
-```
+<img src="https://quickchart.io/chart?width=900&height=400&c={type:'bar',data:{labels:['SQL','Power%20BI','Python','Excel','Tableau'],datasets:[{data:[95,95,80,90,75]}]},options:{plugins:{legend:{display:false}},scales:{y:{display:false},x:{ticks:{color:'white'}}}}}" width="90%"/>
 
 </div>
 
 ---
 
-# 🧠 SQL DATA MATRIX
+# ⚡ SQL TERMINAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=300&color=00FFAA&center=true&vCenter=true&width=750&lines=SELECT+CUSTOMER%2C+REVENUE%2C+PROFIT;FROM+SALES;WHERE+PROFIT+%3E+0;ORDER+BY+REVENUE+DESC;" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1200&pause=400&color=22C55E&center=true&vCenter=true&width=900&lines=SELECT+*+FROM+BUSINESS_DATA;GROUP+BY+CUSTOMER;ORDER+BY+REVENUE+DESC;ANALYZE+%7C+VISUALIZE+%7C+OPTIMIZE"/>
 
 </div>
 
 ```sql
 SELECT
-    customer,
-    category,
-    SUM(sales) AS total_sales,
-    SUM(profit) AS total_profit
-FROM sales
-WHERE profit > 0
-GROUP BY customer, category
-ORDER BY total_sales DESC;
+    Customer,
+    SUM(Sales) AS Revenue,
+    SUM(Profit) AS Profit
+FROM Sales
+GROUP BY Customer
+ORDER BY Revenue DESC;
 ```
 
 ---
 
-# 🐍 PYTHON ANALYTICS ENGINE
+# 🐍 PYTHON ANALYTICS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="90"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="100"/>
 
 <br><br>
 
-`PANDAS` → `NUMPY` → `EDA` → `MATPLOTLIB` → `SEABORN`
+`PANDAS`  ✦  `NUMPY`  ✦  `MATPLOTLIB`  ✦  `SEABORN`
 
 </div>
 
 ```python
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 
-df = pd.read_csv("data.csv")
+data = pd.read_csv("dataset.csv")
 
-df = df.drop_duplicates()
-df = df.dropna()
+data = (
+    data
+    .drop_duplicates()
+    .dropna()
+)
 
-summary = df.describe()
+summary = data.describe()
 
-sns.histplot(df["Sales"])
-plt.show()
+print(summary)
 ```
 
 ---
 
-# 📊 GITHUB 3D ANALYTICS
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+# ◈ CONTRIBUTION MATRIX ◈
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Ambati4422&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Ambati4422&theme=transparent&hide_border=true&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# ◇ ANALYTICS IDENTITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<table>
+<tr>
+<td align="center">
+
+### 🧠
+
+**ANALYZE**
+
+SQL  
+Python  
+Excel  
+
+</td>
+
+<td align="center">
+
+### 📊
+
+**VISUALIZE**
+
+Power BI  
+Tableau  
+DAX  
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**DELIVER**
+
+Insights  
+Reports  
+Decisions  
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 💼 ANALYTICS WORKFLOW
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/main/assets/analytics-flow.svg" width="850"/>
+# 🛰️ CURRENT MISSION
 
-</div>
+### `BUILDING DATA-DRIVEN BUSINESS SOLUTIONS`
 
----
-
-# 🎯 WHAT I BRING
-
-<div align="center">
-
-```text
-┌───────────────────────────────────────────────────────────┐
-│                                                           │
-│       RAW DATA                                            │
-│          │                                                │
-│          ▼                                                │
-│     DATA CLEANING                                         │
-│          │                                                │
-│          ▼                                                │
-│    SQL + PYTHON                                           │
-│          │                                                │
-│          ▼                                                │
-│ POWER BI + TABLEAU                                        │
-│          │                                                │
-│          ▼                                                │
-│  BUSINESS INSIGHTS                                        │
-│          │                                                │
-│          ▼                                                │
-│     BUSINESS IMPACT                                       │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🏆 CERTIFICATIONS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SALESFORCE-CERTIFIED-00A1E0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/POWER%20BI-CERTIFIED-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-TRAINING-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NSDC-CERTIFICATE-FF6B00?style=for-the-badge"/>
-
-</div>
-
----
-
-# 👨‍💻 ABOUT ME
-
-<div align="center">
-
-### `AMBATI JAGAN`
+<br>
 
 **Junior Data Analyst**
 
-I transform raw data into meaningful insights using  
-**SQL, Power BI, Excel, Python and Tableau.**
-
-My focus is on:
-
-`DATA CLEANING`
-
-↓
-
-`DATA ANALYSIS`
-
-↓
-
-`BUSINESS INTELLIGENCE`
-
-↓
-
-`DATA VISUALIZATION`
-
-↓
-
-`BUSINESS INSIGHTS`
-
-</div>
-
----
-
-# 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/Ambati4422">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ambati4422&style=for-the-badge&color=00E5FF"/>
+`SQL` • `Power BI` • `Excel` • `Python` • `Tableau`
 
 <br><br>
 
-# `DATA → INSIGHTS → IMPACT`
+<a href="https://github.com/Ambati4422">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-38BDF8?style=for-the-badge&logo=github&logoColor=020617"/>
+</a>
 
-### ⚡ Welcome to my Data Universe ⚡
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050816,50:101B4D,100:00C6FF" width="100%"/>
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ambati4422&style=for-the-badge&color=38BDF8"/>
+
+<br><br>
+
+### `DATA IS THE NEW DIMENSION.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:111827,100:020617&height=150&section=footer" width="100%"/>
 
 </div>
 
