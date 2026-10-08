@@ -1,3 +1,4 @@
+
 name: GitHub-Profile-3D-Contrib
 
 on:
@@ -24,7 +25,9 @@ jobs:
           git add -A .
           git commit -m "Generated 3D Contribution Graph" || exit 0
           git push
+## 📊 3D Contribution Graph
 
+![Ambati4422's 3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
    
  
