@@ -28,5 +28,54 @@
 💡 Core Focus     : Exploratory Data Analysis (EDA) & Dashboard Engineering
 🛠️ Tech Toolkit   : Python (Pandas, NumPy, Seaborn), SQL, Power BI, Excel
 📈 Impact Goal    : Uncovering revenue insights and optimizing operations through data
+# Jagan Ambati
+**Data Analyst | Business Intelligence & Data Modeling Specialist**
+
+[LinkedIn Profile](https://linkedin.com/in/) • [Portfolio / Resume](#) • [Email Contact](mailto:your-email@gmail.com)
+
+---
+
+## Executive Summary
+Results-driven Data Analyst experienced in transforming complex, unstructured datasets into interactive visual dashboards and business intelligence solutions. Proficient in performing end-to-end data pipelines—ranging from data extraction and cleaning with **SQL** and **Python** to advanced data visualization and KPIs reporting using **Power BI** and **Excel**.
+
+---
+
+## Technical Core Competencies
+
+- **Data Analytics & EDA:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleansing, Feature Engineering
+- **Database & Querying:** SQL (PostgreSQL, MySQL, SQL Server), Joins, Subqueries, CTEs, Aggregations
+- **Data Visualization & BI:** Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Dashboards)
+- **Developer Tools & Workflow:** Git, GitHub, Jupyter Notebooks, VS Code
+
+---
+
+## Featured Analytics Projects
+
+### 1. Interactive Business Intelligence Dashboard
+* **Technologies:** Power BI, SQL, DAX
+* **Key Achievements:**
+  * Modeled relational databases and implemented complex DAX calculations to track monthly sales revenue and KPI targets.
+  * Designed intuitive visual interfaces allowing decision-makers to drill down into regional and product-level performance.
+
+### 2. Exploratory Data Analysis & Automated Data Cleaning
+* **Technologies:** Python (Pandas, NumPy, Seaborn), Jupyter Notebooks
+* **Key Achievements:**
+  * Cleaned and preprocessed large-scale datasets, reducing missing values and data inconsistencies by automated scripting.
+  * Generated statistical charts to highlight key trend correlations and business risks.
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&theme=flat&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=compact&theme=flat&hide_border=true)
+
+---
+
+## Contact & Collaboration
+I am open to data analyst roles, collaborative open-source data projects, and freelance dashboard development opportunities.
+
+- **Email:** your-email@gmail.com
+- **LinkedIn:** [linkedin.com/in/jagan-ambati](https://linkedin.com/in/)
 
 
