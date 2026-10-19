@@ -1,81 +1,69 @@
 <div align="center">
 
-  <!-- Typing Animation Header -->
+  <!-- Dynamic Typing Header Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Jagan+Ambati;Data+Analyst+%7C+SQL+%7C+Power+BI;Python+%26+Excel+Automations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=bold&size=30&duration=3000&pause=1000&color=00F0FF&center=true&vcenter=true&width=650&height=80&lines=Hi+There!+👋+I'm+Jagan+Ambati;Data+Analyst+%7C+BI+Specialist;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Turning+Data+Into+Actionable+Insights+🚀" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <b>Turning Raw Data Into Actionable Business Intelligence 📊</b>
-  </p>
-
-  <!-- Animated Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+  <!-- Animated Subtitle Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Ambati4422&color=blueviolet&style=flat-square&label=Profile+Visitors" alt="Visitor Count" />
 
 </div>
 
-<hr />
+---
 
-### ⚡ Fast Facts & Focus
+### 💫 Interactive Tech Stack & Ecosystem
 
-```text
-💡 Core Focus     : Exploratory Data Analysis (EDA) & Dashboard Engineering
-🛠️ Tech Toolkit   : Python (Pandas, NumPy, Seaborn), SQL, Power BI, Excel
-📈 Impact Goal    : Uncovering revenue insights and optimizing operations through data
-# Jagan Ambati
-**Data Analyst | Business Intelligence & Data Modeling Specialist**
+<div align="center">
 
-[LinkedIn Profile](https://linkedin.com/in/) • [Portfolio / Resume](#) • [Email Contact](mailto:your-email@gmail.com)
+| Category | Technologies & Tools (Animated Badges) |
+| :---: | :--- |
+| **Languages & Scripting** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=bounce) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Libraries & EDA** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+
+</div>
 
 ---
 
-## Executive Summary
-Results-driven Data Analyst experienced in transforming complex, unstructured datasets into interactive visual dashboards and business intelligence solutions. Proficient in performing end-to-end data pipelines—ranging from data extraction and cleaning with **SQL** and **Python** to advanced data visualization and KPIs reporting using **Power BI** and **Excel**.
+### 📊 Featured Analytics Projects
+
+<div align="center">
+
+| 🚀 Project Title | 🛠️ Tech Stack | 🔗 Links & Demo |
+| :--- | :--- | :--- |
+| **Interactive Sales & KPI Dashboard** | `Power BI` `SQL` `DAX` | [View Repo](https://github.com/Ambati4422) |
+| **Automated EDA & Customer Churn Pipeline** | `Python` `Pandas` `Seaborn` | [View Repo](https://github.com/Ambati4422) |
+
+</div>
 
 ---
 
-## Technical Core Competencies
+### 📈 GitHub Live Activity & Metrics
 
-- **Data Analytics & EDA:** Python (Pandas, NumPy, Matplotlib, Seaborn), Data Cleansing, Feature Engineering
-- **Database & Querying:** SQL (PostgreSQL, MySQL, SQL Server), Joins, Subqueries, CTEs, Aggregations
-- **Data Visualization & BI:** Power BI (DAX, Power Query), Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP, Dashboards)
-- **Developer Tools & Workflow:** Git, GitHub, Jupyter Notebooks, VS Code
+<div align="center">
 
----
+  <img src="https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&theme=vision-code-dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=compact&theme=vision-code-dark&hide_border=false" width="48%" />
 
-## Featured Analytics Projects
+  <br /><br />
 
-### 1. Interactive Business Intelligence Dashboard
-* **Technologies:** Power BI, SQL, DAX
-* **Key Achievements:**
-  * Modeled relational databases and implemented complex DAX calculations to track monthly sales revenue and KPI targets.
-  * Designed intuitive visual interfaces allowing decision-makers to drill down into regional and product-level performance.
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambati4422&theme=vision-code-dark&hide_border=false" width="98%" />
 
-### 2. Exploratory Data Analysis & Automated Data Cleaning
-* **Technologies:** Python (Pandas, NumPy, Seaborn), Jupyter Notebooks
-* **Key Achievements:**
-  * Cleaned and preprocessed large-scale datasets, reducing missing values and data inconsistencies by automated scripting.
-  * Generated statistical charts to highlight key trend correlations and business risks.
+</div>
 
 ---
 
-## GitHub Analytics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&theme=flat&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=compact&theme=flat&hide_border=true)
+### 🌐 Connect With Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-## Contact & Collaboration
-I am open to data analyst roles, collaborative open-source data projects, and freelance dashboard development opportunities.
+</div>
 
-- **Email:** your-email@gmail.com
-- **LinkedIn:** [linkedin.com/in/jagan-ambati](https://linkedin.com/in/)
 
 
