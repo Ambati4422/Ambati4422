@@ -1,84 +1,61 @@
-<div align="center">
+Act as a premium digital identity designer, SVG motion artist, and senior developer-experience engineer. Upgrade my EXISTING GitHub Profile README repository (Ambati4422/Ambati4422) into a clean, animated, professional Data Analyst profile that recruiters trust within 10 seconds.
 
-  <!-- Fixed Animated Typing Header Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=70&lines=Hi+There!+👋+I'm+Jagan+Reddy;Data+Analyst+%7C+BI+Specialist;SQL+%7C+Power+BI+%7C+Python+%7C+Tableau;Turning+Data+Into+Actionable+Insights+📊" alt="Animated Typing Header" />
+IDENTITY
+Name: Jagan Ambati
+Positioning headline: Data Analyst | Power BI · SQL · BigQuery · Python
+Location: Hyderabad, India. Company: iLogitek Business Solutions.
+Job titles, dates, education (B.Tech in Electronics & Communication Engineering, ACE Engineering College, 2025) and any past internship must be verified against my supplied resume before they appear. If my resume title differs from the headline above, use the resume title in the About section.
 
-  <br />
+FIRST: INSPECT
+1. Inspect the current repository, README.md, local assets, my resume, and my other repositories.
+2. Preserve accurate information and working links. Do not create a duplicate repository.
+3. Known problems to fix:
+   a. An unclosed code fence turns most of the README (projects, toolkit, contact) into one giant code block.
+   b. The snake workflow YAML is pasted inside README.md. Move it to .github/workflows/snake.yml and fix the username line to use github.repository_owner. Add permissions: contents: write and use Platane/snk/svg-only@v3.
+   c. Skill proficiency labels ("Advanced") contradict the "Currently Learning: Advanced Power BI/SQL" section. Remove all proficiency labels.
+   d. The featured projects listed (Digital India Performance Dashboard, HRMS Market Analysis, Mobile Accessories Demand Analysis, Hotel Management Analytics) do not match the pinned repos and have no links. Find the real repositories and link them. If a project has no repository, mark it [TODO] and do not link anything.
+   e. Remove ASCII flowcharts, the wave capsule banner and the typing banner. Replace them with the custom SVG hero.
+4. Do not invent awards, skills, dates, statistics, project results, or links.
+5. Never display my phone number anywhere. Do not extract it from my resume. Show my email only as a mailto badge, and ask me before including it.
 
-  <!-- Animated Visitor Counter & Profile Status Badges -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Ambati4422&color=00f0ff&style=for-the-badge&label=PROFILE+VISITORS" alt="Visitor Count" />
-    <img src="https://img.shields.io/badge/Open_To-Data_Analyst_Roles-brightgreen?style=for-the-badge&logo=github" alt="Open to Work" />
-  </p>
+ART DIRECTION
+Premium data-analytics identity: midnight #071018, navy #0B1E2D, deep blue #12395A, teal #0FA3A3, aqua #5EEAD4, mist #CFE8F1, white #F4FAFC. Feel: clean, editorial, trustworthy. No badge walls, no GIF clutter, no emoji spam (max one emoji per section heading).
 
-</div>
+CUSTOM ANIMATED SVG HERO
+Create a lightweight assets/jagan-hero.svg: my name, headline, subtle moving gradient, an animated line-chart path drawing itself, a fine grid, a few dashboard-style bars rising, and a glowing underline. Use SVG gradients, paths, and SMIL animation. Use unique IDs for gradients and filters. No scripts. Keep a polished static look if animation is unsupported. Create a dark and light variant and embed with a picture element using prefers-color-scheme.
 
----
+README SECTIONS
+1. Animated hero banner.
+2. Short authentic intro (2 to 3 lines, focused on dashboards, data validation/QA and stakeholder reporting).
+3. About me (4 concise bullets).
+4. Tech stack as a compact table by category (BI and Visualization, Databases and Querying, Programming, Data Prep). Verified tools only: SQL, Google BigQuery, Power BI (Power Query, DAX, data modeling), Excel, Tableau, Python (Pandas, NumPy, Matplotlib, Seaborn), Alteryx. Remove any tool I cannot show evidence for.
+5. Featured projects table: Project | What I did | Tools | Repo/Dashboard link. For each project, add a dashboard screenshot under assets/ if I supply one, and a 1-line insight only if it is real. No invented numbers.
+6. Currently learning (one line).
+7. Contribution snake (light and dark) powered by the fixed workflow.
+8. GitHub stats card only if a reliable service responds; otherwise omit it.
+9. Verified links: LinkedIn (https://www.linkedin.com/in/ambati-jagan2002/) and portfolio. Flag that the portfolio URL is an auto-generated Netlify name and recommend renaming the site.
+10. Minimal footer.
 
-### ⚡ Interactive Tech Stack & Toolkit
+REPOSITORY CLEANUP RECOMMENDATIONS (do not change repos, just list for me)
+- Which repos to pin (4 to 6 strongest, real projects) and which to unpin or merge into one "excel-practice" repo.
+- Typos to rename: ECXEL-ASSIG-DATA-CLEANING, Health-care-data-analyis.
+- Repos with missing or duplicated descriptions (Data-modeling-in-powerbi currently has the healthcare description).
+- A README template for each pinned project: problem, dataset, tools, workflow, screenshots, insights, how to open the file.
 
-<div align="center">
+TECHNICAL COMPATIBILITY
+GitHub sanitizes README HTML and ignores scripts and custom CSS. Use only GitHub-compatible Markdown, HTML, SVG and image embeds, with relative asset paths. The README must stay readable on mobile and with animation off.
 
-| Category | Technologies & Tools (Interactive Badges) |
-| :---: | :--- |
-| **Languages & Querying** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-| **Libraries & Analysis** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+QUALITY CONTROL
+- Create the real SVG assets and edit the real README.md and workflow file.
+- Validate SVG syntax, relative paths, every link and every image.
+- Check every personal claim against my resume and repos.
+- Confirm my phone number appears nowhere.
+- No fake metrics, no broken image cards.
+- Keep changes local. Do not commit or push.
+- Finish with a summary of changed files and how to preview and publish.
 
-</div>
+Do not stop at a plan or snippets. Implement everything in the existing repository.
 
----
-
-### 📊 Featured Data Analytics Projects
-
-<div align="center">
-
-| 🚀 Project Title | 🛠️ Tech Stack | 🔗 Quick Links |
-| :--- | :--- | :---: |
-| **Interactive Sales & KPI Dashboard** | `Power BI` `SQL` `DAX` | [**View Repo**](https://github.com/Ambati4422) |
-| **Automated EDA & Customer Churn Pipeline** | `Python` `Pandas` `Seaborn` | [**View Repo**](https://github.com/Ambati4422) |
-
-</div>
-
----
-
-### 📈 Animated Contribution & Activity Metrics
-
-<div align="center">
-
-  <!-- Animated GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambati4422&show_icons=true&theme=cyberpunk&hide_border=false&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambati4422&layout=compact&theme=cyberpunk&hide_border=false" width="48%" />
-
-  <br /><br />
-
-  <!-- Animated Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ambati4422&theme=cyberpunk&hide_border=false" width="98%" />
-
-</div>
-
----
-
-### 🐍 Contribution Activity Snake Animation
-
-<div align="center">
-
-  <!-- Animated Contribution Grid Snake -->
-  <img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="98%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Let's Connect & Collaborate!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-
-</div>
 
 
 
