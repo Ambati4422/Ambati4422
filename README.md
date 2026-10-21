@@ -21,6 +21,13 @@ I turn raw data into validated, well-modeled dashboards that stakeholders can ac
 - I use Python (Pandas, NumPy) for cleaning and exploratory analysis
 - B.Tech in Electronics & Communication Engineering, 2025
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" alt="" width="100%">
+  </picture>
+</p>
+
 ## Tech stack
 
 | Category | Tools |
@@ -29,6 +36,13 @@ I turn raw data into validated, well-modeled dashboards that stakeholders can ac
 | Databases and querying | SQL, Google BigQuery |
 | Programming | Python: Pandas, NumPy, Matplotlib, Seaborn |
 | Data preparation | Alteryx, Power Query |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" alt="" width="100%">
+  </picture>
+</p>
 
 ## Featured projects
 
@@ -44,6 +58,13 @@ Add more rows once each project has its own repository. Template:
 Candidates from your old README: Digital India Performance Dashboard, HRMS Market Analysis,
 Mobile Accessories Demand Analysis, Hotel Management Analytics.
 -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+    <img src="assets/divider-light.svg" alt="" width="100%">
+  </picture>
+</p>
 
 ## How I work
 
@@ -66,36 +87,6 @@ Advanced DAX, advanced SQL and Tableau.
     <img src="assets/footer-light.svg" alt="Turning data into insights, one dashboard at a time" width="100%">
   </picture>
 </p>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
 
