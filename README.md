@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0d1117&text=Jagan%20Ambati&fontSize=52&fontColor=36BCF7&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%7C%20Business%20Intelligence&descAlignY=58&descSize=18&descColor=ffffff" width="100%" />
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=footer" width="100%" />
 
 <div align="center">
@@ -84,7 +85,6 @@ I'm a **Data Analyst at iLogitek Business Solutions, Bengaluru**, focused on tur
     <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 ---
 
 <div align="center">
