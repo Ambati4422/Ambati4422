@@ -78,23 +78,51 @@ I'm a **Data Analyst at iLogitek Business Solutions, Bengaluru**, focused on tur
 ---
 
 ## 🐍 Contribution Snake
+name: Generate Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
----
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
-<div align="center">
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+
 
 💡 *"Turning data into insights, one dashboard at a time."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" width="100%" />
 
 </div>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ambati4422/Ambati4422/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</div>
 
 
 
